@@ -11,8 +11,9 @@ Hypothesis:If HEXIM 1 protein in Mice is similar in sequence and function then i
 
 
 1. juptier notebook
-2. fasta flies for sequence aligment
-3. weblogo inserted photo
-4. PDB structure
-5. distance of PDB structure
-6. all the downloaded packages 
+2. HTML project 2 knitted
+3. fasta flies for sequence aligment
+4. weblogo inserted photo
+5. PDB structure
+6. distance of PDB structure
+7. all the downloaded packages 
